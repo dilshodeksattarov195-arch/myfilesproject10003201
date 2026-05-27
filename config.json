@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usercync",
+        "uuid": 23005587,
+        "checksum": "zeyv1j"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
